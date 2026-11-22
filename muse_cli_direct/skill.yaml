@@ -1,0 +1,5 @@
+name: "muse_cli_direct"
+title: "Muse 命令行直做 · Muse CLI Direct"
+description: "Use Muse's connected command line tools directly instead of installing third-party skill packs, for email checks, weekly review, scrub-before-sharing, verification, reconciliation, price checks, memory hygiene, and pre-publish checks."
+category: "Work and knowledge"
+include_in_prompt: true
